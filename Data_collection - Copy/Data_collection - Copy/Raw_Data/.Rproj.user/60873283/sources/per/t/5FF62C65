@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1622172576904.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5FF62C65",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1622172576904,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8AE8D8C4",
+        "caption" : "SPH",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=SPH&cache_key=8AE8D8C4",
+        "displayedObservations" : 16,
+        "environment" : "",
+        "object" : "SPH",
+        "preview" : 0,
+        "totalObservations" : 16,
+        "variables" : 5
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
