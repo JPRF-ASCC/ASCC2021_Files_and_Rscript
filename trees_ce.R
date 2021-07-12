@@ -9,16 +9,18 @@ basepath <- "E:/JPRF ASCC/Data Processing/working_data/Epicollect_Datasheets/"
 
 library(dplyr)
 library(ggplot2)
-dat1 <- read.csv(paste0(basepath,"form-1__data-collection_May19_QA.csv"))
-dat2 <- read.csv(paste0(basepath,"https://www.dropbox.com/home/ASCC/Epicollect/Working%20Data?preview=form-1__data-collection_May26.csv"))
-dat3 <- read.csv(paste0(basepath,"form-1__data-collection_May27.csv"))
-dat4 <- read.csv(paste0(basepath,"form-1__data-collection_May20.csv"))
-dat5 <- read.csv(paste0(basepath,"form-1__data-collection_may28-june11.csv"))
 
-# Katherine: Add in additional data collection days
+#opening 
+dat1 <- read.csv(paste0(basepath,"form-1__data-collection_may12-may20_QA.csv"))
+dat2 <- read.csv(paste0(basepath,"form-1__data-collection_may21-may26.csv"))
+dat3 <- read.csv(paste0(basepath,"form-1__data-collection_may27.csv"))
+dat4 <- read.csv(paste0(basepath,"form-1__data-collection_may28-june11.csv"))
+dat5 <- read.csv(paste0(basepath,"form-1__data-collection_june22-june23.csv"))
+dat6 <- read.csv(paste0(basepath,"form-1__data-collection_june30-july9.csv"))
+
 
 lk <- read.csv(paste0(basepath,"lookup1.csv"))
-dat7 <- rbind (dat1, dat2, dat3, dat4, dat5)
+dat7 <- rbind (dat1, dat2, dat3, dat4, dat5, dat6)
 
 trees <- dat7 %>% select("X1_Establishing_a_new", "X22_Hexagon_",	"X23_Plot_",	"X24_Species",	"X25_If_other_fill_in",	
                         "X26_Is_it_a_snag",	"X27_DBH_cm__tenth_dec",	"X28_Age_Taken",	
