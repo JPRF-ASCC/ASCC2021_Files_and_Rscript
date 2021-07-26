@@ -1,3 +1,15 @@
- * May 19th was updated-> DBH was collected as an integer, the actual number was recorded in the comments.
- * In column: ec5_uuid, row: dcbab0b8-9f0a-4443-8571-46c0f8b442a1 was filtered due to NAs
- * Some of the SIT are not part of the 11.28m radius plots. 
+ May 19th, 2021
+ 
+     was updated-> DBH was collected as an integer, the actual number was recorded in the comments.
+ 
+     In column: ec5_uuid, row: dcbab0b8-9f0a-4443-8571-46c0f8b442a1 was filtered due to NAs
+ 
+     Some of the SIT are not part of the 11.28m radius plots. 
+
+July 11, 2021 (Katherine Casey)
+
+	   form-1__data-collection_june22-june23.csv
+		  *Changes to plot number from 4 to 7 for hexagon 7 (H7P4-> H7P7)
+ 
+  	form-1__data-collection_june30-july9.csv
+	  	*Changes to plot number from 4 to 9 for hexagon 9 (H9P4 -> H9P9)
