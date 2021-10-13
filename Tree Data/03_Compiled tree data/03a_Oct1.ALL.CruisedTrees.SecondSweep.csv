@@ -1,0 +1,1069 @@
+"","Plot.id","Hexagon","Plot","Species","Status","DBH","Crown.class","Height","Code","Comments","Date","Species1","Distance","Bearing","Age.ca","Technique","Additional.Comments"
+"1","H11P1","11","1","Bl","Dead",25.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"2","H11P1","11","1","Bl","Live",49.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"3","H11P1","11","1","Bl","Dead",7.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"4","H11P1","11","1","Bl","Live",33.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"5","H11P1","11","1","Bl","Dead",28.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"6","H11P1","11","1","Bl","Live",23.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"7","H11P1","11","1","Sx","Live",18.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"8","H11P1","11","1","Sx","Live",7.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"9","H11P1","11","1","Sx","Live",17.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"10","H11P1","11","1","Sx","Live",37.2,"4",24.9,"H11P1SIT1","H11P1SIT1, IN","05-Sep-21","Sx",5.75,222,"55","Bearing and distance from plot center",NA
+"11","H11P1","11","1","Bl","Live",41,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"12","H11P1","11","1","Sx","Live",13.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"13","H11P1","11","1","Sx","Live",16.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"14","H11P1","11","1","Bl","Dead",10.8,"1",NA,"","Broken top at 4m",NA,NA,NA,NA,NA,NA,NA
+"15","H11P1","11","1","Bl","Live",8.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"16","H11P1","11","1","Bl","Live",20.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"17","H11P1","11","1","Sx","Live",10.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"18","H11P1","11","1","Sx","Live",29.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"19","H11P1","11","1","D","Live",7.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"20","H11P1","11","1","D","Dead",10.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"21","H11P1","11","1","D","Live",8.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"22","H11P1","11","1","Bl","Live",12.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"23","H11P1","11","1","Sx","Live",9.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"24","H11P1","11","1","Ep","Live",34.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"25","H11P1","11","1","Sx","Live",9.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"26","H11P1","11","1","Bl","Live",28.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"27","H11P1","11","1","Bl","Live",11.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"28","H11P1","11","1","Bl","Dead",33.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"29","H11P7","11","7","Sx","Live",36.7,"4",27.7,"H11P7SIT1","H11P7SIT1. In","05-Sep-21","Sx",7.02,106,"49","Bearing and distance from plot center",NA
+"30","H11P7","11","7","Bl","Dead",17,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"31","H11P7","11","7","Ep","Live",43.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"32","H11P7","11","7","Fd","Live",8.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"33","H11P7","11","7","Bl","Dead",7.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"34","H11P7","11","7","Fd","Live",10.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"35","H11P7","11","7","Bl","Live",11.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"36","H11P7","11","7","Bl","Live",14.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"37","H11P7","11","7","Bl","Dead",17,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"38","H11P7","11","7","Bl","Live",13.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"39","H11P7","11","7","Bl","Live",17.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"40","H11P7","11","7","Bl","Dead",9.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"41","H11P7","11","7","Sx","Live",16.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"42","H11P7","11","7","Sx","Live",27.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"43","H11P7","11","7","Fd","Live",8.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"44","H11P7","11","7","Bl","Dead",30.2,"1",NA,"","Broken top 1.9m",NA,NA,NA,NA,NA,NA,NA
+"45","H11P7","11","7","Sx","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"46","H11P7","11","7","Fd","Live",26.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"47","H11P7","11","7","Bl","Live",8.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"48","H11P7","11","7","Bl","Live",12.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"49","H11P7","11","7","Bl","Dead",13,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"50","H11P7","11","7","Bl","Dead",10.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"51","H11P7","11","7","Bl","Live",13.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"52","H11P7","11","7","Fd","Live",8.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"53","H11P7","11","7","Sx","Live",11.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"54","H11P7","11","7","Bl","Dead",7.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"55","H11P7","11","7","Bl","Live",12.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"56","H11P7","11","7","Bl","Dead",8.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"57","H11P7","11","7","Bl","Live",12.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"58","H11P7","11","7","Bl","Live",14.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"59","H11P7","11","7","Bl","Live",15.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"60","H11P7","11","7","Bl","Live",23.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"61","H11P7","11","7","Bl","Live",7.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"62","H11P7","11","7","Sx","Live",18.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"63","H11P7","11","7","Bl","Live",7.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"64","H11P7","11","7","Bl","Live",19.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"65","H11P7","11","7","Bl","Live",9.6,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"66","H11P7","11","7","Bl","Live",11.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"67","H11P7","11","7","Bl","Live",7.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"68","H11P7","11","7","Bl","Dead",10.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"69","H11P7","11","7","Bl","Live",18.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"70","H11P7","11","7","Bl","Live",7.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"71","H11P7","11","7","Bl","Live",15.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"72","H11P7","11","7","Bl","Live",10.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"73","H11P7","11","7","Bl","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"74","H11P7","11","7","Bl","Dead",8.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"75","H11P7","11","7","Bl","Live",11.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"76","H11P7","11","7","Sx","Live",24.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"77","H11P7","11","7","Bl","Live",7.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"78","H11P7","11","7","Ep","Live",16.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"79","H11P7","11","7","Sx","Live",9.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"80","H11P7","11","7","Sx","Live",23.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"81","H11P7","11","7","Sx","Live",9.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"82","H11P7","11","7","Sx","Live",20.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"83","H11P7","11","7","Ep","Live",16.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"84","H11P7","11","7","Bl","Live",15,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"85","H11P7","11","7","Sx","Live",30,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"86","H11P7","11","7","Bl","Live",8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"87","H11P7","11","7","Bl","Dead",10.6,"1",NA,"","Broken top 7m",NA,NA,NA,NA,NA,NA,NA
+"88","H11P7","11","7","Sx","Live",19.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"89","H11P7","11","7","Bl","Live",17.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"90","H11P7","11","7","Bl","Live",17.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"91","H11P7","11","7","Bl","Live",11.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"92","H11P7","11","7","Bl","Live",19.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"93","H11P7","11","7","Bl","Live",11.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"94","H11P7","11","7","Bl","Dead",8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"95","H11P7","11","7","Fd","Live",9.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"96","H11P7","11","7","Fd","Live",14.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"97","H11P7","11","7","Bl","Live",7.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"98","H11P7","11","7","Sx","Dead",13.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"99","H11P7","11","7","Bl","Dead",14.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"100","H11P7","11","7","Sx","Live",47.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"101","H11P7","11","7","Bl","Live",17.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"102","H11P7","11","7","Bl","Live",7.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"103","H11P7","11","7","Bl","Live",22.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"104","H11P7","11","7","Bl","Live",NA,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"105","H12P1","12","1","Sx","Live",31.8,"4",28.4,"H12P1SIT1","H12P1SIT1. Out","01-Sep-21","Sx",12.96,299,"38","Bearing and distance from plot center",NA
+"106","H12P1","12","1","Sx","Live",31.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"107","H12P1","12","1","Bl","Live",17.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"108","H12P1","12","1","Sx","Live",20,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"109","H12P1","12","1","Bl","Live",9.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"110","H12P1","12","1","Bl","Dead",8.7,"1",NA,"","Broken top 5m",NA,NA,NA,NA,NA,NA,NA
+"111","H12P1","12","1","Bl","Live",9.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"112","H12P1","12","1","Bl","Live",8.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"113","H12P1","12","1","Sx","Dead",15.6,"1",NA,"","Broken top 6m",NA,NA,NA,NA,NA,NA,NA
+"114","H12P1","12","1","Sx","Live",24.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"115","H12P1","12","1","Bl","Dead",9.6,"1",NA,"","Broken top 7m",NA,NA,NA,NA,NA,NA,NA
+"116","H12P1","12","1","Bl","Live",7.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"117","H12P1","12","1","Sx","Live",21,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"118","H12P1","12","1","Sx","Live",8.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"119","H12P1","12","1","Sx","Live",27.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"120","H12P1","12","1","Sx","Live",12.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"121","H12P1","12","1","Bl","Dead",32.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"122","H12P1","12","1","Ep","Live",17.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"123","H12P1","12","1","Bl","Live",42.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"124","H12P1","12","1","At","Live",17,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"125","H12P1","12","1","At","Dead",8.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"126","H12P1","12","1","At","Live",32,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"127","H12P1","12","1","At","Live",18.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"128","H12P1","12","1","At","Live",24,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"129","H12P1","12","1","At","Dead",58.3,"1",NA,"","Broken top 3m",NA,NA,NA,NA,NA,NA,NA
+"130","H12P1","12","1","At","Live",30.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"131","H12P1","12","1","At","Live",14.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"132","H12P1","12","1","Bl","Dead",15.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"133","H12P1","12","1","Sx","Live",30.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"134","H12P1","12","1","Bl","Live",14.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"135","H12P1","12","1","Bl","Live",7.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"136","H12P1","12","1","Bl","Live",17.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"137","H12P1","12","1","Bl","Live",8.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"138","H12P1","12","1","Bl","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"139","H12P1","12","1","At","Live",40.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"140","H12P1","12","1","At","Live",15.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"141","H12P1","12","1","Sx","Live",17.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"142","H12P1","12","1","Bl","Live",17.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"143","H12P1","12","1","Bl","Live",11.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"144","H12P1","12","1","Sx","Live",18.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"145","H12P1","12","1","Bl","Live",8.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"146","H12P1","12","1","Sx","Live",20.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"147","H12P1","12","1","Bl","Live",12.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"148","H12P1","12","1","At","Dead",13.2,"1",NA,"","Broken at 1.7m",NA,NA,NA,NA,NA,NA,NA
+"149","H12P1","12","1","Sx","Live",11,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"150","H12P1","12","1","Bl","Live",15.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"151","H12P1","12","1","Sx","Live",25.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"152","H12P1","12","1","Sx","Live",30.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"153","H12P1","12","1","Sx","Dead",11.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"154","H12P1","12","1","Sx","Live",14.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"155","H12P1","12","1","Bl","Live",14.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"156","H12P1","12","1","Bl","Dead",15.3,"1",NA,"","Broken top at 9m",NA,NA,NA,NA,NA,NA,NA
+"157","H12P1","12","1","Bl","Live",17,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"158","H12P1","12","1","Bl","Live",9.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"159","H12P1","12","1","Bl","Live",9.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"160","H12P1","12","1","Bl","Live",16.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"161","H12P1","12","1","Bl","Live",9.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"162","H12P1","12","1","Bl","Live",22.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"163","H12P1","12","1","Bl","Live",8.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"164","H12P1","12","1","Bl","Live",15.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"165","H12P1","12","1","Bl","Live",8.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"166","H12P1","12","1","Bl","Live",10.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"167","H12P1","12","1","Bl","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"168","H12P7","12","7","Sx","Live",30.1,"4",25.4,"H12P7SIT1","H12P7SIT1. In","01-Sep-21","Sx",10.96,183,"56","Bearing and distance from plot center",NA
+"169","H12P7","12","7","Sx","Live",7.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"170","H12P7","12","7","Sx","Live",10.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"171","H12P7","12","7","Bl","Dead",17,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"172","H12P7","12","7","Bl","Dead",12.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"173","H12P7","12","7","Bl","Dead",25.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"174","H12P7","12","7","Sx","Live",19.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"175","H12P7","12","7","Sx","Live",38,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"176","H12P7","12","7","Sx","Live",10.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"177","H12P7","12","7","Bl","Live",8.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"178","H12P7","12","7","Bl","Live",24.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"179","H12P7","12","7","Bl","Dead",30.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"180","H12P7","12","7","Sx","Live",8.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"181","H12P7","12","7","Bl","Live",25.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"182","H12P7","12","7","Bl","Dead",37,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"183","H12P7","12","7","Bl","Live",35.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"184","H12P7","12","7","Bl","Dead",30,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"185","H12P7","12","7","Sx","Live",27.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"186","H12P7","12","7","Bl","Dead",15.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"187","H12P7","12","7","Bl","Live",37.7,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"188","H12P7","12","7","Sx","Live",26.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"189","H12P7","12","7","Bl","Live",15,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"190","H12P7","12","7","Bl","Live",10.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"191","H12P7","12","7","Sx","Live",28.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"192","H12P7","12","7","Bl","Live",21.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"193","H12P7","12","7","Sx","Live",34.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"194","H12P7","12","7","Sx","Live",35.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"195","H12P7","12","7","Sx","Dead",8.2,"1",NA,"","Broken 1.6m",NA,NA,NA,NA,NA,NA,NA
+"196","H12P7","12","7","Sx","Live",12.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"197","H12P7","12","7","Bl","Dead",30.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"198","H12P7","12","7","Sx","Live",35,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"199","H12P7","12","7","Bl","Live",9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"200","H12P7","12","7","Sx","Live",10.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"201","H12P7","12","7","Sx","Live",17.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"202","H12P7","12","7","Bl","Live",27.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"203","H12P7","12","7","Bl","Dead",20.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"204","H14P1","14","1","Bl","Live",16.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"205","H14P1","14","1","Bl","Dead",39.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"206","H14P1","14","1","Bl","Live",7.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"207","H14P1","14","1","Bl","Live",16.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"208","H14P1","14","1","Bl","Live",21.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"209","H14P1","14","1","Bl","Dead",10.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"210","H14P1","14","1","Bl","Live",14.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"211","H14P1","14","1","Sx","Live",17.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"212","H14P1","14","1","Sx","Live",16.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"213","H14P1","14","1","Sx","Live",7.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"214","H14P1","14","1","Bl","Dead",14.3,"1",NA,"","Broken top at 3m",NA,NA,NA,NA,NA,NA,NA
+"215","H14P1","14","1","Sx","Live",13.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"216","H14P1","14","1","Bl","Live",18.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"217","H14P1","14","1","Bl","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"218","H14P1","14","1","At","Live",17.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"219","H14P1","14","1","At","Live",26.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"220","H14P1","14","1","Bl","Live",11,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"221","H14P1","14","1","Bl","Live",32.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"222","H14P1","14","1","Sx","Live",50.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"223","H14P1","14","1","At","Live",28.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"224","H14P1","14","1","At","Dead",8,"1",NA,"","Broken top at 3m",NA,NA,NA,NA,NA,NA,NA
+"225","H14P1","14","1","At","Dead",11,"1",NA,"","Broken top at 7m",NA,NA,NA,NA,NA,NA,NA
+"226","H14P1","14","1","Sx","Live",16.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"227","H14P1","14","1","Sx","Live",10.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"228","H14P1","14","1","Sx","Live",12.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"229","H14P1","14","1","Sx","Live",26.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"230","H14P1","14","1","Bl","Dead",38.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"231","H14P1","14","1","Sx","Live",28.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"232","H14P1","14","1","Bl","Live",7.8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"233","H14P1","14","1","Bl","Live",8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"234","H14P1","14","1","Bl","Live",11.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"235","H14P1","14","1","Sx","Live",27.5,"4",23.8,"H14P1SIT1","Out H14P1SIT1","25-Aug-21","Sx",12.48,240,"56","Bearing and distance from plot center",NA
+"236","H14P1","14","1","Sx","Live",37.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"237","H14P1","14","1","Bl","Dead",15.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"238","H14P1","14","1","Bl","Dead",10,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"239","H14P1","14","1","Bl","Live",17,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"240","H14P1","14","1","Bl","Live",12.8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"241","H14P1","14","1","Bl","Live",19.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"242","H14P1","14","1","Bl","Live",19.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"243","H14P1","14","1","Bl","Live",40,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"244","H14P1","14","1","Bl","Dead",29.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"245","H14P1","14","1","Sx","Live",54.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"246","H14P1","14","1","Bl","Live",19.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"247","H14P2","14","2","Bl","Live",20.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"248","H14P2","14","2","Sx","Live",8.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"249","H14P2","14","2","Bl","Dead",26.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"250","H14P2","14","2","Bl","Live",7.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"251","H14P2","14","2","Bl","Dead",13.5,"1",NA,"","Broken top at 8m height",NA,NA,NA,NA,NA,NA,NA
+"252","H14P2","14","2","Fd","Live",28.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"253","H14P2","14","2","Bl","Dead",27.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"254","H14P2","14","2","Sx","Live",33,"4",25.7,"H14P2SIT1","H14P2SIT1, out of plot","25-Aug-21","Sx",12.93,315,"61","Bearing and distance from plot center",NA
+"255","H14P2","14","2","Bl","Live",23,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"256","H14P2","14","2","Sx","Live",17.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"257","H14P2","14","2","Sx","Live",8.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"258","H14P2","14","2","Sx","Live",32.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"259","H14P2","14","2","Sx","Live",29.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"260","H14P2","14","2","Fd","Live",39.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"261","H14P2","14","2","Bl","Live",15.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"262","H14P2","14","2","Sx","Live",35.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"263","H14P2","14","2","Sx","Live",31.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"264","H14P2","14","2","Bl","Dead",30.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"265","H14P2","14","2","Bl","Live",27.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"266","H14P2","14","2","Sx","Live",29.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"267","H14P2","14","2","Sx","Live",27,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"268","H14P2","14","2","Bl","Live",26.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"269","H14P2","14","2","Bl","Dead",25.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"270","H14P2","14","2","Bl","Live",9.8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"271","H14P2","14","2","Sx","Live",7.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"272","H14P2","14","2","Bl","Live",23.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"273","H14P2","14","2","Sx","Live",27.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"274","H14P7","14","7","Sx","Live",11.5,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"275","H14P7","14","7","Sx","Live",11.7,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"276","H14P7","14","7","Ac","Dead",8.4,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"277","H14P7","14","7","Bl","Live",11.8,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"278","H14P7","14","7","Sx","Dead",7.8,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"279","H14P7","14","7","Ac","Dead",8.5,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"280","H14P7","14","7","Ac","Live",25,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"281","H14P7","14","7","Ac","Live",17.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"282","H14P7","14","7","Sx","Live",22.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"283","H14P7","14","7","Ac","Live",28.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"284","H14P7","14","7","Sx","Live",14.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"285","H14P7","14","7","Ac","Live",12.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"286","H14P7","14","7","Ac","Dead",7.7,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"287","H14P7","14","7","Ac","Live",23.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"288","H14P7","14","7","Sx","Live",15.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"289","H14P7","14","7","Ac","Live",19,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"290","H14P7","14","7","Ac","Dead",11,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"291","H14P7","14","7","Ac","Dead",17.9,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"292","H14P7","14","7","Ac","Dead",18.2,"1",NA,NA,"Broken at 4m. Hung up in a tree",NA,NA,NA,NA,NA,NA,NA
+"293","H14P7","14","7","Ac","Dead",12.8,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"294","H14P7","14","7","Ac","Dead",18.2,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"295","H14P7","14","7","Ac","Live",21.8,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"296","H14P7","14","7","Ac","Live",27.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"297","H14P7","14","7","Ac","Live",13.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"298","H14P7","14","7","Ac","Live",24.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"299","H14P7","14","7","Ac","Live",23.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"300","H14P7","14","7","Ac","Live",26.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"301","H14P7","14","7","Ac","Live",17.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"302","H14P7","14","7","Ac","Live",22.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"303","H14P7","14","7","Ac","Live",28.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"304","H14P7","14","7","Sx","Live",21.2,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"305","H14P7","14","7","Sx","Dead",18,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"306","H14P7","14","7","Sx","Live",10.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"307","H14P7","14","7","Sx","Live",10,"1",NA,NA,"Broken top ~6m",NA,NA,NA,NA,NA,NA,NA
+"308","H14P7","14","7","Sx","Live",28.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"309","H14P7","14","7","Sx","Dead",12.8,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"310","H14P7","14","7","Sx","Live",17.6,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"311","H14P7","14","7","Sx","Dead",9.3,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"312","H14P7","14","7","Sx","Live",19,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"313","H14P7","14","7","Sx","Dead",11.1,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"314","H14P7","14","7","Ac","Live",22.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"315","H14P7","14","7","Ac","Live",27.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"316","H14P7","14","7","Ac","Live",21.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"317","H14P7","14","7","Ac","Live",9.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"318","H14P7","14","7","Ac","Live",24.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"319","H14P7","14","7","Ac","Live",16,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"320","H14P7","14","7","Ac","Live",19,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"321","H14P7","14","7","Ac","Live",15.8,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"322","H14P7","14","7","Sx","Live",23.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"323","H14P7","14","7","Sx","Live",12.5,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"324","H14P7","14","7","Ac","Live",24,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"325","H14P7","14","7","Sx","Live",26,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"326","H14P7","14","7","Ac","Live",17.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"327","H14P7","14","7","Ac","Live",17.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"328","H14P7","14","7","Ac","Live",15.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"329","H14P7","14","7","Ac","Dead",9.2,"1",NA,NA,"Broken top ~2.3m",NA,NA,NA,NA,NA,NA,NA
+"330","H14P7","14","7","Ac","Live",22.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"331","H14P7","14","7","Sx","Live",7.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"332","H14P7","14","7","Sx","Live",13.5,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"333","H14P7","14","7","Sx","Live",21.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"334","H14P7","14","7","Sx","Live",22,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"335","H14P7","14","7","Sx","Live",26.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"336","H14P7","14","7","Ac","Live",19.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"337","H14P7","14","7","Sx","Live",19.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"338","H14P7","14","7","Bl","Live",10.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"339","H14P7","14","7","Sx","Live",11.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"340","H14P7","14","7","Sx","Live",19.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"341","H14P7","14","7","Sx","Live",24,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"342","H14P7","14","7","Fd","Live",26.8,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"343","H14P7","14","7","Sx","Live",26.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"344","H14P7","14","7","Ac","Live",17,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"345","H14P7","14","7","Sx","Live",19.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"346","H14P7","14","7","Sx","Live",21.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"347","H14P7","14","7","Sx","Live",12.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"348","H14P7","14","7","Ac","Live",12.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"349","H14P7","14","7","Sx","Live",18,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"350","H14P7","14","7","Sx","Dead",8.6,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"351","H18P6","18","6","Sx","Live",39.3,"3",25.6,"H18P6SIT1","OutSIT1","24-Aug-21","Sx",11.22,47,"59","Bearing and distance from plot center",NA
+"352","H18P6","18","6","Ep","Live",33,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"353","H18P6","18","6","Sx","Live",20.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"354","H18P6","18","6","Sx","Live",37.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"355","H18P6","18","6","Ep","Live",30.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"356","H18P6","18","6","Ep","Live",27,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"357","H18P6","18","6","Ep","Live",18.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"358","H18P6","18","6","Bl","Live",13.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"359","H18P6","18","6","Sx","Live",24.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"360","H18P6","18","6","Sx","Live",28.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"361","H18P6","18","6","Sx","Live",9.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"362","H18P6","18","6","Bl","Live",38.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"363","H18P6","18","6","Sx","Live",25.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"364","H18P6","18","6","Ep","Live",24.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"365","H18P6","18","6","Bl","Dead",10.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"366","H18P6","18","6","Ac","Live",52.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"367","H18P6","18","6","Ac","Live",38.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"368","H18P6","18","6","Ac","Live",39.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"369","H18P6","18","6","Bl","Live",49.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"370","H18P6","18","6","Sx","Live",20.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"371","H18P9","18","9","Ep","Live",40.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"372","H18P9","18","9","Bl","Dead",44.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"373","H18P9","18","9","Sx","Live",18.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"374","H18P9","18","9","Bl","Dead",33.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"375","H18P9","18","9","Sx","Live",20,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"376","H18P9","18","9","D","Live",9.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"377","H18P9","18","9","Sx","Live",12.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"378","H18P9","18","9","Sx","Live",11.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"379","H18P9","18","9","D","Live",9.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"380","H18P9","18","9","D","Live",9.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"381","H18P9","18","9","Bl","Dead",10.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"382","H18P9","18","9","Sx","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"383","H18P9","18","9","Sx","Live",30.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"384","H18P9","18","9","Sx","Live",59.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"385","H18P9","18","9","Bl","Live",9.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"386","H18P9","18","9","Bl","Live",15.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"387","H18P9","18","9","Bl","Live",9.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"388","H18P9","18","9","Bl","Live",15.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"389","H18P9","18","9","Sx","Live",15.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"390","H18P9","18","9","Sx","Live",19.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"391","H18P9","18","9","D","Live",8.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"392","H18P9","18","9","Sx","Live",41.4,"4",26.7,"H18P9SIT1","OUT; SIT1","24-Aug-21","Sx",18.66,64,"61","Bearing and distance from plot center",NA
+"393","H20P1","20","1","Bl","Live",20.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"394","H20P1","20","1","Sx","Live",21.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"395","H20P1","20","1","Bl","Live",32,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"396","H20P1","20","1","Sx","Live",32.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"397","H20P1","20","1","Bl","Live",13.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"398","H20P1","20","1","Bl","Live",8.9,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"399","H20P1","20","1","Bl","Live",13.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"400","H20P1","20","1","Sx","Live",31.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"401","H20P1","20","1","Sx","Live",38.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"402","H20P1","20","1","Bl","Dead",13.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"403","H20P1","20","1","Sx","Live",39.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"404","H20P1","20","1","Sx","Live",25.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"405","H20P1","20","1","Bl","Live",10.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"406","H20P1","20","1","Sx","Live",29.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"407","H20P1","20","1","Bl","Dead",7.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"408","H20P1","20","1","Bl","Dead",11.2,"1",NA,"","Broken top at 6m",NA,NA,NA,NA,NA,NA,NA
+"409","H20P1","20","1","Bl","Live",13.2,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"410","H20P1","20","1","Bl","Dead",8.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"411","H20P1","20","1","Ep","Live",9.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"412","H20P1","20","1","Ep","Live",12.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"413","H20P1","20","1","Sx","Live",21.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"414","H20P1","20","1","Bl","Live",33,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"415","H20P1","20","1","Bl","Dead",12.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"416","H20P1","20","1","Sx","Live",37.2,"4",28.2,"H20P1SIT1","Out. H20P1SIT1","31-Aug-21","Sx",14.03,154,"60","Bearing and distance from plot center",NA
+"417","H20P1","20","1","Bl","Dead",11,"1",NA,"","Broken top at 3m",NA,NA,NA,NA,NA,NA,NA
+"418","H20P1","20","1","Sx","Dead",12.5,"1",NA,"","Broken top at 4m",NA,NA,NA,NA,NA,NA,NA
+"419","H20P1","20","1","Sx","Live",35.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"420","H20P1","20","1","Bl","Live",26.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"421","H20P1","20","1","Bl","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"422","H20P1","20","1","Bl","Live",30.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"423","H20P1","20","1","Bl","Live",9.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"424","H20P1","20","1","Bl","Live",21.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"425","H20P1","20","1","Bl","Dead",7.7,"1",NA,"","Broken 2.5m",NA,NA,NA,NA,NA,NA,NA
+"426","H20P1","20","1","Ep","Live",24.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"427","H20P1","20","1","Ep","Live",30.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"428","H20P1","20","1","Sx","Live",7.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"429","H20P1","20","1","Bl","Live",11.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"430","H20P1","20","1","Bl","Dead",35.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"431","H20P1","20","1","Sx","Live",11.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"432","H20P1","20","1","Sx","Live",25.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"433","H20P1","20","1","Sx","Live",21.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"434","H20P1","20","1","Bl","Live",15.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"435","H20P1","20","1","Sx","Live",35.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"436","H20P1","20","1","Bl","Live",11.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"437","H20P1","20","1","D","Dead",10.5,"1",NA,"","Broken 1.8m",NA,NA,NA,NA,NA,NA,NA
+"438","H20P1","20","1","Sx","Live",13.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"439","H20P1","20","1","Bl","Dead",30.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"440","H20P3","20","3","Bl","Live",19.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"441","H20P3","20","3","Bl","Live",12.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"442","H20P3","20","3","Sx","Live",20.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"443","H20P3","20","3","Sx","Live",9.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"444","H20P3","20","3","Sx","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"445","H20P3","20","3","Sx","Live",70,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"446","H20P3","20","3","Bl","Live",10.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"447","H20P3","20","3","Bl","Live",11.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"448","H20P3","20","3","Bl","Live",10.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"449","H20P3","20","3","Sx","Live",9.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"450","H20P3","20","3","Bl","Live",15.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"451","H20P3","20","3","Bl","Live",9.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"452","H20P3","20","3","Bl","Dead",12,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"453","H20P3","20","3","Sx","Live",21.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"454","H20P3","20","3","Bl","Live",8.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"455","H20P3","20","3","Bl","Dead",50.5,"1",NA,"","Broken top at 15m",NA,NA,NA,NA,NA,NA,NA
+"456","H20P3","20","3","Sx","Live",7.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"457","H20P3","20","3","Sx","Live",25.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"458","H20P3","20","3","Sx","Live",29,"4",20.6,"H20P3SIT1","H20P3SIT1. OUT","31-Aug-21","Sx",18.22,343,"48","Bearing and distance from plot center",NA
+"459","H20P3","20","3","Sx","Live",18,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"460","H20P3","20","3","Sx","Live",8.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"461","H20P3","20","3","Sx","Live",9.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"462","H20P3","20","3","Sx","Live",26.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"463","H20P3","20","3","Bl","Live",11.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"464","H20P3","20","3","Bl","Live",27.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"465","H20P3","20","3","Sx","Live",19.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"466","H20P3","20","3","Sx","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"467","H20P3","20","3","Bl","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"468","H20P3","20","3","Bl","Live",19.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"469","H20P3","20","3","Bl","Live",37,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"470","H20P3","20","3","Bl","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"471","H20P3","20","3","Sx","Dead",44.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"472","H20P3","20","3","Bl","Live",13.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"473","H20P3","20","3","Bl","Live",9.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"474","H20P3","20","3","Bl","Live",7.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"475","H20P3","20","3","Bl","Dead",12.2,"1",NA,"","Break at 15m",NA,NA,NA,NA,NA,NA,NA
+"476","H20P3","20","3","Sx","Live",39.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"477","H20P3","20","3","Bl","Live",12.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"478","H20P3","20","3","Bl","Live",14.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"479","H20P3","20","3","Sx","Live",60,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"480","H20P3","20","3","Sx","Live",15.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"481","H20P3","20","3","Bl","Live",11.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"482","H20P3","20","3","Bl","Live",21.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"483","H20P3","20","3","Bl","Live",16,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"484","H2P6","2","6","Sx","Live",43.7,"4",34.7,"H2P6SIT1","Out. H2P6SIT1","08-Sep-21","Sx",15.55,254,"155","Bearing and distance from plot center",NA
+"485","H2P6","2","6","Bl","Live",19.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"486","H2P6","2","6","Bl","Live",14.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"487","H2P6","2","6","Bl","Dead",10.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"488","H2P6","2","6","Bl","Live",8.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"489","H2P6","2","6","Sx","Live",9.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"490","H2P6","2","6","Bl","Live",12.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"491","H2P6","2","6","Sx","Live",17,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"492","H2P6","2","6","Bl","Live",18.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"493","H2P6","2","6","Sx","Dead",39.6,"1",NA,"","Broken top at 3.5m",NA,NA,NA,NA,NA,NA,NA
+"494","H2P6","2","6","Bl","Live",14.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"495","H2P6","2","6","Sx","Live",12.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"496","H2P6","2","6","Bl","Live",18.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"497","H2P6","2","6","Bl","Live",10.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"498","H2P6","2","6","Bl","Live",18,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"499","H2P6","2","6","Bl","Live",19.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"500","H2P6","2","6","Bl","Live",7.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"501","H2P6","2","6","Sx","Live",15.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"502","H2P6","2","6","Bl","Live",13,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"503","H2P6","2","6","Bl","Live",21.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"504","H2P6","2","6","Bl","Live",8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"505","H2P6","2","6","Bl","Live",8.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"506","H2P6","2","6","Bl","Live",9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"507","H2P6","2","6","Bl","Live",37.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"508","H2P6","2","6","Bl","Live",11.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"509","H2P6","2","6","Bl","Live",10.1,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"510","H2P6","2","6","Bl","Live",15.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"511","H2P6","2","6","Bl","Live",7.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"512","H2P6","2","6","Sx","Live",14.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"513","H2P6","2","6","Bl","Live",14.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"514","H2P6","2","6","Bl","Live",12.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"515","H2P6","2","6","Bl","Live",20,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"516","H2P6","2","6","Sx","Live",33.3,"2",NA,"","Alive, but broken top at 15m",NA,NA,NA,NA,NA,NA,NA
+"517","H2P6","2","6","Bl","Live",11.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"518","H2P6","2","6","Bl","Live",15.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"519","H2P6","2","6","Bl","Live",15,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"520","H2P6","2","6","Bl","Live",12.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"521","H2P6","2","6","Sx","Live",48.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"522","H2P6","2","6","Bl","Live",10.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"523","H2P6","2","6","Bl","Live",15.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"524","H2P6","2","6","Bl","Live",10.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"525","H2P6","2","6","Bl","Live",11.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"526","H2P6","2","6","Bl","Live",18.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"527","H2P6","2","6","Bl","Live",17.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"528","H2P6","2","6","Bl","Live",18,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"529","H2P6","2","6","Bl","Dead",13.7,"1",NA,"","Broken top at 6m",NA,NA,NA,NA,NA,NA,NA
+"530","H3P8","3","8","Ep","Live",22.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"531","H3P8","3","8","Ep","Live",16.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"532","H3P8","3","8","Sx","Live",21.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"533","H3P8","3","8","Ac","Live",16.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"534","H3P8","3","8","Sx","Live",21.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"535","H3P8","3","8","Sx","Live",23.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"536","H3P8","3","8","Ac","Live",21.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"537","H3P8","3","8","Sx","Dead",8.2,"1",NA,"","Broken top at 3.1m",NA,NA,NA,NA,NA,NA,NA
+"538","H3P8","3","8","D","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"539","H3P8","3","8","Bl","Live",7.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"540","H3P8","3","8","Bl","Live",20,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"541","H3P8","3","8","Sx","Live",9.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"542","H3P8","3","8","Sx","Live",40.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"543","H3P8","3","8","Sx","Dead",8.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"544","H3P8","3","8","Sx","Live",10.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"545","H3P8","3","8","Sx","Live",9.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"546","H3P8","3","8","Sx","Live",33.6,"4",25.9,"H3P8SIT1","H3P8SIT1","27-Aug-21","Sx",2.69,351,"52","Bearing and distance from plot center",NA
+"547","H3P8","3","8","Sx","Live",12.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"548","H3P8","3","8","Sx","Live",12.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"549","H3P8","3","8","Bl","Live",10,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"550","H3P8","3","8","Sx","Live",9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"551","H3P8","3","8","Bl","Live",30.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"552","H3P8","3","8","Bl","Dead",26.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"553","H3P8","3","8","Bl","Live",15,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"554","H3P8","3","8","Bl","Live",9.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"555","H3P8","3","8","Bl","Dead",25.2,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"556","H3P8","3","8","Fd","Dead",71.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"557","H3P8","3","8","Sx","Live",16.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"558","H3P8","3","8","Bl","Live",26.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"559","H3P8","3","8","Bl","Live",22.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"560","H3P8","3","8","Bl","Live",7.8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"561","H3P8","3","8","Bl","Live",23.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"562","H3P8","3","8","Bl","Live",10.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"563","H3P8","3","8","Bl","Live",26.9,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"564","H3P8","3","8","Sx","Live",55.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"565","H3P8","3","8","Bl","Live",8.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"566","H3P8","3","8","Bl","Live",24.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"567","H3P8","3","8","Ep","Live",16.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"568","H3P8","3","8","Fd","Live",66.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"569","H3P8","3","8","Bl","Live",26.9,"3",NA,"","Broken top ~6m",NA,NA,NA,NA,NA,NA,NA
+"570","H3P8","3","8","Bl","Dead",11.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"571","H3P8","3","8","Sx","Live",8.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"572","H3P8","3","8","Bl","Live",24,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"573","H3P8","3","8","Bl","Live",11,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"574","H3P8","3","8","D","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"575","H3P8","3","8","Bl","Dead",13.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"576","H3P8","3","8","Bl","Live",24.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"577","H3P8","3","8","Bl","Live",17.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"578","H3P8","3","8","Sx","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"579","H3P8","3","8","Bl","Live",24.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"580","H3P8","3","8","Bl","Live",13.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"581","H3P8","3","8","Bl","Live",15.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"582","H3P8","3","8","Bl","Live",10.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"583","H3P8","3","8","Sx","Live",19.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"584","H3P8","3","8","Ep","Live",18.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"585","H3P8","3","8","Bl","Dead",11.6,"1",NA,"","Broken top ~5.5m",NA,NA,NA,NA,NA,NA,NA
+"586","H3P9","3","9","Sx","Live",34.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"587","H3P9","3","9","Bl","Live",24.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"588","H3P9","3","9","Sx","Live",17.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"589","H3P9","3","9","Bl","Dead",29.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"590","H3P9","3","9","Sx","Dead",7.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"591","H3P9","3","9","Sx","Live",25.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"592","H3P9","3","9","Sx","Live",20.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"593","H3P9","3","9","Ep","Dead",11,"1",NA,"","Broken top at 2m",NA,NA,NA,NA,NA,NA,NA
+"594","H3P9","3","9","Sx","Live",53.2,"4",33.8,"H3P9SIT1","","27-Aug-21","Sx",6.96,223,"139","Bearing and distance from plot center",NA
+"595","H3P9","3","9","Sx","Live",21.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"596","H3P9","3","9","Sx","Live",13.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"597","H3P9","3","9","Bl","Dead",11,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"598","H3P9","3","9","Sx","Live",14.4,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"599","H3P9","3","9","Sx","Live",27.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"600","H3P9","3","9","Sx","Live",27.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"601","H3P9","3","9","Sx","Live",41.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"602","H3P9","3","9","Bl","Dead",21.9,"1",NA,"","Broken top at 4m",NA,NA,NA,NA,NA,NA,NA
+"603","H3P9","3","9","Sx","Live",34.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"604","H3P9","3","9","Sx","Live",12.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"605","H3P9","3","9","Sx","Live",7.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"606","H3P9","3","9","Bl","Live",29.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"607","H3P9","3","9","Bl","Live",18.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"608","H3P9","3","9","Ep","Live",19.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"609","H3P9","3","9","Bl","Live",8.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"610","H3P9","3","9","Bl","Live",23.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"611","H3P9","3","9","Sx","Live",19.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"612","H3P9","3","9","Bl","Dead",16.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"613","H3P9","3","9","Sx","Live",17.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"614","H3P9","3","9","Sx","Live",20.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"615","H3P9","3","9","Sx","Live",22.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"616","H3P9","3","9","Bl","Live",9.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"617","H3P9","3","9","Bl","Dead",27.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"618","H3P9","3","9","Fd","Live",11.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"619","H3P9","3","9","Bl","Dead",42.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"620","H3P9","3","9","Bl","Dead",11.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"621","H3P9","3","9","Bl","Dead",23.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"622","H4P3","4","3","Sx","Live",33.8,"4",25.4,"H4P3SIT1","H4P3SIT1. Out of plot","26-Aug-21","Sx",12.03,191,"50","Bearing and distance from plot center",NA
+"623","H4P3","4","3","D","Dead",10,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"624","H4P3","4","3","Bl","Live",22.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"625","H4P3","4","3","Sx","Live",14.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"626","H4P3","4","3","Bl","Live",8.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"627","H4P3","4","3","Bl","Live",16.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"628","H4P3","4","3","D","Live",9.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"629","H4P3","4","3","D","Live",8.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"630","H4P3","4","3","Sx","Live",9.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"631","H4P3","4","3","Sx","Live",35.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"632","H4P3","4","3","Bl","Live",16.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"633","H4P3","4","3","Sx","Live",23.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"634","H4P3","4","3","Bl","Live",7.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"635","H4P3","4","3","Bl","Live",22.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"636","H4P3","4","3","Bl","Live",17.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"637","H4P3","4","3","Bl","Dead",8.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"638","H4P3","4","3","Sx","Live",74.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"639","H4P3","4","3","Bl","Live",9.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"640","H4P3","4","3","Sx","Live",37.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"641","H4P3","4","3","D","Dead",10.5,"1",NA,"","Break a 1.8m",NA,NA,NA,NA,NA,NA,NA
+"642","H4P3","4","3","Bl","Live",33.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"643","H4P3","4","3","Sx","Live",12.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"644","H4P3","4","3","Sx","Live",30,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"645","H4P3","4","3","Sx","Live",22.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"646","H4P3","4","3","Sx","Live",26.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"647","H4P3","4","3","Bl","Dead",9.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"648","H4P3","4","3","Sx","Live",16,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"649","H4P3","4","3","Bl","Live",15.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"650","H4P3","4","3","Sx","Live",34.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"651","H4P3","4","3","Sx","Live",8.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"652","H4P3","4","3","Sx","Live",20.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"653","H4P3","4","3","Sx","Live",14.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"654","H4P3","4","3","Bl","Live",29.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"655","H4P3","4","3","Bl","Live",13.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"656","H4P3","4","3","Bl","Dead",10.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"657","H4P3","4","3","Bl","Live",17.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"658","H4P3","4","3","Sx","Live",25,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"659","H4P3","4","3","Sx","Live",22.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"660","H4P3","4","3","Sx","Live",17.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"661","H4P3","4","3","Sx","Live",21.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"662","H4P3","4","3","Sx","Dead",11.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"663","H4P3","4","3","Sx","Live",14.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"664","H4P3","4","3","Bl","Dead",35.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"665","H4P3","4","3","D","Dead",15.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"666","H4P3","4","3","Sx","Live",9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"667","H4P3","4","3","Sx","Live",33,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"668","H4P3","4","3","Sx","Live",13.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"669","H4P6","4","6","Sx","Live",35.6,"4",26.3,"H4P6SIT1","","26-Aug-21","Sx",15.79,8,"59","Bearing and distance from plot center",NA
+"670","H4P6","4","6","Ep","Live",18.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"671","H4P6","4","6","Bl","Live",16.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"672","H4P6","4","6","Bl","Live",8.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"673","H4P6","4","6","Bl","Dead",13.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"674","H4P6","4","6","Ep","Live",12.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"675","H4P6","4","6","Ep","Live",14.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"676","H4P6","4","6","Ep","Live",17.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"677","H4P6","4","6","Ep","Dead",14,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"678","H4P6","4","6","Ep","Live",28.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"679","H4P6","4","6","Sx","Live",9.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"680","H4P6","4","6","Ep","Live",24.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"681","H4P6","4","6","Ep","Live",35.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"682","H4P6","4","6","Sx","Live",13.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"683","H4P6","4","6","Ep","Live",12.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"684","H4P6","4","6","Bl","Live",18.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"685","H4P6","4","6","Ep","Live",14.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"686","H4P6","4","6","Ep","Live",26.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"687","H4P6","4","6","Ep","Live",15,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"688","H4P6","4","6","Bl","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"689","H4P6","4","6","Bl","Live",16.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"690","H4P6","4","6","Ep","Live",9.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"691","H4P6","4","6","Ep","Live",28.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"692","H4P6","4","6","Ep","Live",13.5,"3",NA,"","Tree bent over",NA,NA,NA,NA,NA,NA,NA
+"693","H4P6","4","6","Bl","Dead",15.8,"1",NA,"","Broken top at 2.5m",NA,NA,NA,NA,NA,NA,NA
+"694","H4P6","4","6","Ep","Live",44.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"695","H4P6","4","6","Bl","Live",15.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"696","H4P6","4","6","Bl","Live",18.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"697","H4P6","4","6","Bl","Live",14.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"698","H4P6","4","6","Bl","Live",10.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"699","H4P6","4","6","Sx","Live",25.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"700","H4P6","4","6","Ep","Dead",19,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"701","H4P6","4","6","Ep","Live",16.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"702","H4P6","4","6","Bl","Live",9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"703","H4P6","4","6","Sx","Live",10.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"704","H4P6","4","6","Ep","Live",17.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"705","H4P6","4","6","Ep","Live",10.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"706","H4P6","4","6","Ep","Live",26.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"707","H4P6","4","6","Bl","Live",12.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"708","H4P6","4","6","Sx","Live",47.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"709","H4P6","4","6","Ep","Live",23.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"710","H4P6","4","6","Ep","Live",9.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"711","H5P5","5","5","Sx","Live",26.1,"4",27,"H5P5SIT1","Out; H5P5SIT1","06-Sep-21","Sx",22,NA,"55","Bearing and distance from plot center","Missing data. Pulled from Tree Cruise. Bearing and distance unknown, but tree was recorded as Out (22m is arbitrary)"
+"712","H5P5","5","5","Sx","Live",17.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"713","H5P5","5","5","Sx","Live",8.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"714","H5P5","5","5","Sx","Live",22,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"715","H5P5","5","5","Bl","Live",27.4,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"716","H5P5","5","5","Bl","Dead",17.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"717","H5P5","5","5","Bl","Live",23.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"718","H5P5","5","5","Bl","Dead",24.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"719","H5P5","5","5","Bl","Live",21.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"720","H5P5","5","5","Sx","Live",20.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"721","H5P5","5","5","Bl","Dead",20.3,"1",NA,"","Broken top at 15m",NA,NA,NA,NA,NA,NA,NA
+"722","H5P5","5","5","Sx","Live",15.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"723","H5P5","5","5","Bl","Live",11.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"724","H5P5","5","5","Ep","Live",45.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"725","H5P5","5","5","Sx","Live",9.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"726","H5P5","5","5","Bl","Live",22.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"727","H5P5","5","5","Bl","Live",14.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"728","H5P5","5","5","Ep","Live",35,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"729","H5P5","5","5","Sx","Live",33.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"730","H5P5","5","5","Bl","Dead",23.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"731","H5P5","5","5","Bl","Live",28.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"732","H5P5","5","5","Bl","Dead",24.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"733","H5P5","5","5","Bl","Live",26.7,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"734","H5P5","5","5","Bl","Live",8.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"735","H5P5","5","5","Bl","Live",29.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"736","H5P5","5","5","Ac","Dead",46,"1",NA,"","Broken top at 5m",NA,NA,NA,NA,NA,NA,NA
+"737","H5P5","5","5","Ac","Live",61.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"738","H5P5","5","5","Bl","Live",22.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"739","H5P5","5","5","Ac","Live",59,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"740","H5P5","5","5","Bl","Live",23.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"741","H5P5","5","5","Sx","Live",9.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"742","H5P5","5","5","Sx","Live",8.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"743","H5P5","5","5","Bl","Live",27.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"744","H5P5","5","5","Bl","Dead",16.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"745","H5P5","5","5","Bl","Live",19,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"746","H5P5","5","5","Sx","Live",11.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"747","H5P5","5","5","Ep","Live",17.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"748","H5P5","5","5","Bl","Live",12.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"749","H5P5","5","5","Bl","Live",20.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"750","H5P6","5","6","Sx","Live",29.4,"4",22.5,"H5P6SIT1","Out. H5P6SIT1","06-Sep-21","Sx",15.48,123,"55","Bearing and distance from plot center",NA
+"751","H5P6","5","6","Sx","Live",7.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"752","H5P6","5","6","D","Live",11,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"753","H5P6","5","6","Sx","Live",7.8,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"754","H5P6","5","6","Bl","Live",23.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"755","H5P6","5","6","Sx","Live",8.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"756","H5P6","5","6","Sx","Live",10.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"757","H5P6","5","6","D","Live",11.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"758","H5P6","5","6","Sx","Live",20.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"759","H5P6","5","6","Sx","Live",14.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"760","H5P6","5","6","Sx","Live",33.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"761","H5P6","5","6","Sx","Live",18.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"762","H5P6","5","6","D","Live",11.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"763","H5P6","5","6","D","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"764","H5P6","5","6","Sx","Live",26.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"765","H5P6","5","6","Sx","Live",52,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"766","H5P6","5","6","D","Live",9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"767","H5P6","5","6","Bl","Live",8.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"768","H5P6","5","6","Bl","Live",26.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"769","H5P6","5","6","D","Live",9.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"770","H5P6","5","6","Bl","Live",30.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"771","H5P6","5","6","Bl","Live",13.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"772","H5P6","5","6","Bl","Live",11.5,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"773","H5P6","5","6","Sx","Live",38.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"774","H5P6","5","6","Sx","Live",20,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"775","H5P6","5","6","D","Live",8.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"776","H5P6","5","6","Bl","Live",27.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"777","H5P6","5","6","Sx","Live",30.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"778","H5P6","5","6","Ep","Live",13,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"779","H5P6","5","6","D","Dead",7.5,"1",NA,"","Broken top at 5m",NA,NA,NA,NA,NA,NA,NA
+"780","H5P6","5","6","Ep","Live",39.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"781","H5P6","5","6","Sx","Live",60.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"782","H5P6","5","6","Bl","Live",9.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"783","H5P6","5","6","Bl","Live",9.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"784","H5P6","5","6","Bl","Dead",12.1,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"785","H8P4","8","4","Sx","Live",30.6,"4",24.6,"H8P4SIT1","H8P4SIT1; out","30-Aug-21","Sx",14.71,188,"55","Bearing and distance from plot center",NA
+"786","H8P4","8","4","Bl","Live",9.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"787","H8P4","8","4","Bl","Dead",31.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"788","H8P4","8","4","Bl","Live",10,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"789","H8P4","8","4","Bl","Live",36.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"790","H8P4","8","4","Ep","Live",24,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"791","H8P4","8","4","Ep","Live",14.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"792","H8P4","8","4","Fd","Live",68.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"793","H8P4","8","4","Sx","Live",21.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"794","H8P4","8","4","Sx","Live",11.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"795","H8P4","8","4","Ep","Live",13.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"796","H8P4","8","4","Sx","Live",13.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"797","H8P4","8","4","Sx","Live",24.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"798","H8P4","8","4","Ep","Live",13.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"799","H8P4","8","4","Sx","Live",10.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"800","H8P4","8","4","Bl","Live",26.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"801","H8P4","8","4","Bl","Live",29.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"802","H8P4","8","4","Bl","Live",36.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"803","H8P4","8","4","Bl","Live",38,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"804","H8P4","8","4","Ep","Live",27.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"805","H8P4","8","4","Bl","Live",25.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"806","H8P4","8","4","Sx","Live",8.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"807","H8P4","8","4","Ep","Live",8.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"808","H8P4","8","4","Sx","Live",18.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"809","H8P4","8","4","Sx","Live",8.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"810","H8P4","8","4","Sx","Live",10.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"811","H8P4","8","4","Ep","Live",18.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"812","H8P4","8","4","Ep","Live",22.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"813","H8P4","8","4","Bl","Live",17.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"814","H8P4","8","4","Bl","Live",28.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"815","H8P4","8","4","Bl","Live",34.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"816","H8P4","8","4","Sx","Live",8.4,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"817","H8P4","8","4","Ac","Live",24.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"818","H8P4","8","4","Ac","Live",22.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"819","H8P4","8","4","Sx","Live",23.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"820","H8P4","8","4","D","Dead",8.3,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"821","H8P4","8","4","Sx","Live",8.9,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"822","H8P4","8","4","Bl","Live",33.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"823","H8P4","8","4","Bl","Live",36,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"824","H8P4","8","4","Fd","Live",9.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"825","H8P4","8","4","Ep","Live",10.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"826","H8P4","8","4","Sx","Live",8.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"827","H8P4","8","4","Sx","Live",12.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"828","H8P4","8","4","Fd","Live",11.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"829","H8P4","8","4","Bl","Live",31,"2",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"830","H8P4","8","4","Sx","Live",9.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"831","H8P4","8","4","Bl","Live",22.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"832","H8P4","8","4","Bl","Live",39,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"833","H8P4","8","4","Bl","Live",10.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"834","H8P6","8","6","Fd","Live",49.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"835","H8P6","8","6","Fd","Live",42.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"836","H8P6","8","6","Bl","Live",18.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"837","H8P6","8","6","Fd","Live",39.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"838","H8P6","8","6","Fd","Live",47.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"839","H8P6","8","6","Bl","Live",9.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"840","H8P6","8","6","Fd","Live",35.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"841","H8P6","8","6","Fd","Live",37.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"842","H8P6","8","6","Sx","Live",14.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"843","H8P6","8","6","Fd","Dead",21.8,"1",NA,"","Break at 1.5m",NA,NA,NA,NA,NA,NA,NA
+"844","H8P6","8","6","Sx","Live",11.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"845","H8P6","8","6","Bl","Live",8.8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"846","H8P6","8","6","Sx","Live",24.5,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"847","H8P6","8","6","Fd","Live",49.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"848","H8P6","8","6","Fd","Live",24.2,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"849","H8P6","8","6","Fd","Live",42.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"850","H8P6","8","6","Pl","Dead",17.9,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"851","H8P6","8","6","Pl","Dead",18.4,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"852","H8P6","8","6","Sx","Live",7.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"853","H8P6","8","6","Fd","Live",48.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"854","H8P6","8","6","Bl","Live",8.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"855","H8P6","8","6","Sx","Live",31.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"856","H8P6","8","6","Sx","Live",9.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"857","H8P6","8","6","Sx","Live",7.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"858","H8P6","8","6","Bl","Live",9.1,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"859","H8P6","8","6","Sx","Live",21.8,"4",20.8,"H8P6SIT1","H8P6SIT1 in plot","30-Aug-21","Sx",10.08,207,"48","Bearing and distance from plot center",NA
+"860","H8P6","8","6","Sx","Live",7.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"861","H8P6","8","6","Sx","Live",20.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"862","H8P6","8","6","Sx","Live",8.6,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"863","H8P6","8","6","Bl","Live",9.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"864","H8P6","8","6","Fd","Live",44.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"865","H8P6","8","6","Bl","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"866","H8P6","8","6","Bl","Live",10.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"867","H8P6","8","6","Bl","Live",8.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"868","H8P6","8","6","Bl","Live",7.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"869","H8P6","8","6","Bl","Live",22.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"870","H8P6","8","6","Bl","Live",15.6,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"871","H8P6","8","6","Bl","Live",8.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"872","H8P6","8","6","Bl","Live",7.6,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"873","H8P6","8","6","Bl","Live",10.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"874","H8P6","8","6","Bl","Live",7.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"875","H8P6","8","6","Bl","Live",21.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"876","H9P1","9","1","Sx","Live",14.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"877","H9P1","9","1","Bl","Live",29.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"878","H9P1","9","1","Bl","Live",25.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"879","H9P1","9","1","Bl","Live",22.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"880","H9P1","9","1","Bl","Live",28.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"881","H9P1","9","1","Bl","Dead",30.9,"1",NA,"","Broken at 1.7m",NA,NA,NA,NA,NA,NA,NA
+"882","H9P1","9","1","Bl","Live",20.3,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"883","H9P1","9","1","Bl","Live",12.7,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"884","H9P1","9","1","Bl","Live",21.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"885","H9P1","9","1","Bl","Live",31.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"886","H9P1","9","1","Bl","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"887","H9P1","9","1","Bl","Live",8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"888","H9P1","9","1","Bl","Live",12.4,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"889","H9P1","9","1","Bl","Dead",16.5,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"890","H9P1","9","1","Bl","Live",12.3,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"891","H9P1","9","1","Sx","Dead",9.2,"1",NA,"","Broken top at 2.5m",NA,NA,NA,NA,NA,NA,NA
+"892","H9P1","9","1","Bl","Live",41.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"893","H9P1","9","1","Bl","Live",19.7,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"894","H9P1","9","1","Sx","Live",8.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"895","H9P1","9","1","Bl","Live",30.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"896","H9P1","9","1","Sx","Live",37.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"897","H9P1","9","1","Ep","Live",19.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"898","H9P1","9","1","Bl","Live",10,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"899","H9P1","9","1","Sx","Live",16.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"900","H9P1","9","1","Sx","Live",8.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"901","H9P1","9","1","Bl","Live",7.8,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"902","H9P1","9","1","Sx","Live",8,"3",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"903","H9P1","9","1","Sx","Live",19.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"904","H9P1","9","1","Sx","Live",26.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"905","H9P1","9","1","Sx","Live",31.9,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"906","H9P1","9","1","Sx","Live",26,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"907","H9P1","9","1","Sx","Live",9.7,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"908","H9P1","9","1","Sx","Dead",8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"909","H9P1","9","1","Sx","Live",9.5,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"910","H9P1","9","1","Sx","Live",37.1,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"911","H9P1","9","1","Sx","Live",29.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"912","H9P1","9","1","Sx","Live",40,"4",27.7,"H9P1SIT1","In. H9P1SIT1","09-Sep-21","Sx",6.47,210,"55","Bearing and distance from plot center",NA
+"913","H9P1","9","1","Bl","Dead",22.8,"1",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"914","H9P1","9","1","Sx","Dead",18.5,"1",NA,"","Broken top at 6m",NA,NA,NA,NA,NA,NA,NA
+"915","H9P1","9","1","Sx","Live",46.2,"4",NA,"","",NA,NA,NA,NA,NA,NA,NA
+"916","H9P6","9","6","Bl","Live",8.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"917","H9P6","9","6","Bl","Live",7.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"918","H9P6","9","6","Bl","Live",10.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"919","H9P6","9","6","Bl","Live",21.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"920","H9P6","9","6","Bl","Live",13.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"921","H9P6","9","6","Bl","Live",21.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"922","H9P6","9","6","Bl","Dead",10.4,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"923","H9P6","9","6","Bl","Live",23.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"924","H9P6","9","6","Bl","Live",12.1,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"925","H9P6","9","6","Bl","Live",27,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"926","H9P6","9","6","Bl","Live",8.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"927","H9P6","9","6","Bl","Live",40.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"928","H9P6","9","6","Bl","Live",16,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"929","H9P6","9","6","Bl","Live",10.1,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"930","H9P6","9","6","Bl","Live",9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"931","H9P6","9","6","Bl","Live",11.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"932","H9P6","9","6","At","Live",24.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"933","H9P6","9","6","Sx","Live",25.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"934","H9P6","9","6","Bl","Live",9.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"935","H9P6","9","6","Sx","Live",22.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"936","H9P6","9","6","Bl","Live",13.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"937","H9P6","9","6","Sx","Live",24.1,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"938","H9P6","9","6","Bl","Dead",44.7,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"939","H9P6","9","6","Bl","Live",38.4,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"940","H9P6","9","6","Bl","Dead",20.7,"1",NA,NA,"Broken top at 15m",NA,NA,NA,NA,NA,NA,NA
+"941","H9P6","9","6","Bl","Dead",20.4,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"942","H9P6","9","6","Bl","Live",8.1,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"943","H9P6","9","6","Bl","Live",8.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"944","H9P6","9","6","Sx","Live",18.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"945","H9P6","9","6","Sx","Live",16.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"946","H9P6","9","6","Sx","Live",10,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"947","H9P6","9","6","Sx","Live",18.4,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"948","H9P6","9","6","Sx","Live",13.9,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"949","H9P6","9","6","Sx","Live",38,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"950","H9P6","9","6","Bl","Live",41.8,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"951","H9P6","9","6","Bl","Dead",17.2,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"952","H9P6","9","6","Bl","Dead",14.9,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"953","H9P6","9","6","Sx","Live",22.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"954","H9P6","9","6","Bl","Live",31.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"955","H9P6","9","6","Bl","Live",22.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"956","H9P6","9","6","Bl","Live",10.3,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"957","H9P6","9","6","Bl","Live",11.1,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"958","H9P6","9","6","Bl","Live",22.6,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"959","H9P6","9","6","Bl","Live",8.7,"2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"960","H9P6","9","6","Bl","Live",25.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"961","H9P6","9","6","Bl","Live",16.2,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"962","H9P6","9","6","Bl","Live",7.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"963","H9P6","9","6","Bl","Live",9.3,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"964","H9P6","9","6","Sx","Live",63.5,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"965","H9P6","9","6","At","Live",11.9,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"966","H9P6","9","6","At","Dead",68.5,"1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"967","H9P6","9","6","Bl","Live",25.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"968","H9P6","9","6","Bl","Live",9.3,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"969","H9P6","9","6","At","Live",18.7,"4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"970","H9P6","9","6","Bl","Live",14.8,"3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA
+"971","H16P5","16","5","Sx","Standing (Live)",22,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"972","H16P5","16","5","Bl","Standing (Live)",25.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"973","H16P5","16","5","Sx","Snag (Dead) (45-90%) ",9.4,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"974","H16P5","16","5","Sx","Standing (Live)",22,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"975","H16P5","16","5","Bl","Standing (Live)",31.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"976","H16P5","16","5","Bl","Standing (Live)",19.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"977","H16P5","16","5","Bl","Snag (Dead) (45-90%) ",10.6,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"978","H16P5","16","5","Bl","Standing (Live)",28.7,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"979","H16P5","16","5","Sx","Standing (Live)",10.2,"2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"980","H16P5","16","5","Sx","Standing (Live)",34.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"981","H16P5","16","5","Bl","Standing (Live)",29.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"982","H16P5","16","5","Bl","Standing (Live)",24.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"983","H16P5","16","5","Bl","Standing (Live)",19.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"984","H16P5","16","5","Bl","Standing (Live)",18.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"985","H16P5","16","5","Sx","Standing (Live)",13.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"986","H16P5","16","5","Bl","Standing (Live)",39.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"987","H16P5","16","5","Bl","Standing (Live)",10.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"988","H16P5","16","5","Bl","Standing (Live)",23.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"989","H16P5","16","5","Sx","Standing (Live)",32.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"990","H16P5","16","5","Bl","Standing (Live)",21.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"991","H16P5","16","5","Sx","Standing (Live)",10,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"992","H16P5","16","5","Bl","Standing (Live)",16.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"993","H16P5","16","5","Bl","Standing (Live)",22.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"994","H16P5","16","5","Sx","Standing (Live)",18.5,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"995","H16P5","16","5","Sx","Standing (Live)",22.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"996","H16P5","16","5","Sx","Snag (Dead) (45-90%) ",21.6,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"997","H16P5","16","5","Sx","Standing (Live)",34.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"998","H16P5","16","5","Sx","Standing (Live)",8,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"999","H16P5","16","5","Bl","Standing (Live)",12.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1000","H16P5","16","5","Bl","Snag (Dead) (45-90%) ",12.4,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1001","H16P5","16","5","Sx","Standing (Live)",30,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1002","H16P5","16","5","Bl","Standing (Live)",12.9,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1003","H16P5","16","5","Bl","Snag (Dead) (45-90%) ",19.6,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1004","H16P5","16","5","Bl","Standing (Live)",16.9,"2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1005","H16P5","16","5","Bl","Standing (Live)",9.9,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1006","H16P5","16","5","Bl","Standing (Live)",21.6,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1007","H16P5","16","5","Bl","Standing (Live)",34.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1008","H16P5","16","5","Bl","Standing (Live)",11.6,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1009","H16P5","16","5","Bl","Standing (Live)",12.7,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1010","H16P5","16","5","Bl","Snag (Dead) (45-90%) ",10,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1011","H16P5","16","5","Bl","Standing (Live)",19.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1012","H16P5","16","5","Bl","Standing (Live)",15.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1013","H16P5","16","5","Bl","Standing (Live)",8.4,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1014","H16P5","16","5","Fd","Standing (Live)",40.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1015","H16P3","16","3","Ep","Standing (Live)",18.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1016","H16P3","16","3","Sx","Standing (Live)",24.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1017","H16P3","16","3","D","Standing (Live)",9.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1018","H16P3","16","3","Bl","Standing (Live)",17,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1019","H16P3","16","3","Sx","Standing (Live)",8.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1020","H16P3","16","3","Bl","Standing (Live)",11.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1021","H16P3","16","3","Sx","Standing (Live)",15.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1022","H16P3","16","3","Bl","Standing (Live)",14.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1023","H16P3","16","3","Sx","Standing (Live)",27,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1024","H16P3","16","3","Sx","Standing (Live)",14.4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1025","H16P3","16","3","Sx","Snag (Dead) (45-90%) ",11.7,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1026","H16P3","16","3","Ep","Standing (Live)",24.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1027","H16P3","16","3","Ep","Standing (Live)",8.4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1028","H16P3","16","3","Ep","Standing (Live)",9.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1029","H16P3","16","3","Bl","Standing (Live)",12,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1030","H16P3","16","3","Bl","Standing (Live)",15.7,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1031","H16P3","16","3","Sx","Standing (Live)",9,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1032","H16P3","16","3","Sx","Standing (Live)",11,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1033","H16P3","16","3","Ep","Standing (Live)",10.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1034","H16P3","16","3","Ep","Standing (Live)",10.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1035","H16P3","16","3","Sx","Standing (Live)",20.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1036","H16P3","16","3","Ep","Standing (Live)",12.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1037","H16P3","16","3","Sx","Standing (Live)",18.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1038","H16P3","16","3","Bl","Standing (Live)",13,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1039","H16P3","16","3","Sx","Standing (Live)",15.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1040","H16P3","16","3","Ep","Standing (Live)",18.2,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1041","H16P3","16","3","Sx","Standing (Live)",29.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1042","H16P3","16","3","Ep","Standing (Live)",12.9,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1043","H16P3","16","3","Sx","Standing (Live)",8.1,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1044","H16P3","16","3","Bl","Snag (Dead) (45-90%) ",8.3,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1045","H16P3","16","3","Sx","Standing (Live)",24.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1046","H16P3","16","3","Sx","Standing (Live)",18.4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1047","H16P3","16","3","Fd","Standing (Live)",38,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1048","H16P3","16","3","Sx","Standing (Live)",19.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1049","H16P3","16","3","Bl","Snag (Dead) (45-90%) ",16.2,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1050","H16P3","16","3","Bl","Standing (Live)",11,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1051","H16P3","16","3","Sx","Standing (Live)",18,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1052","H16P3","16","3","Bl","Standing (Live)",30.3,"2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1053","H16P3","16","3","Ep","Standing (Live)",20.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1054","H16P3","16","3","Sx","Standing (Live)",31.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1055","H16P3","16","3","Sx","Standing (Live)",16.9,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1056","H16P3","16","3","Bl","Standing (Live)",17.1,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1057","H16P3","16","3","Sx","Standing (Live)",23.9,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1058","H16P3","16","3","Ep","Standing (Live)",40.5,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1059","H16P3","16","3","Sx","Standing (Live)",18.8,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1060","H16P3","16","3","Sx","Standing (Live)",22.3,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1061","H16P3","16","3","Ep","Standing (Live)",27.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1062","H16P3","16","3","Ep","Standing (Live)",24.9,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1063","H16P3","16","3","Bl","Standing (Live)",11.1,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1064","H16P3","16","3","Bl","Standing (Live)",10.3,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1065","H16P3","16","3","Sx","Snag (Dead) (45-90%) ",8.3,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1066","H16P3","16","3","Bl","Standing (Live)",7.6,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1067","H16P3","16","3","Bl","Standing (Live)",15.4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1068","H16P3","16","3","Bl","Standing (Live)",11,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

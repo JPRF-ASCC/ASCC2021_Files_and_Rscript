@@ -1,0 +1,19 @@
+01_ALL_ASCC.Epicollect.Entries.2021
+	Corresponds to every Epicollect entry, including plot establishment, Sapling/regen,
+	trees, and CWD
+
+02a_Oct1.ALL.CruisedTrees.Firstsweep
+	Corresponds to all trees that were part of the first sweep of trees. Note: Although collected in epicollect, H16P3 and H16P5
+	were omitted from this list. They were collected as part of the second sweep. (We didn't have
+	the excel set up at the time)
+
+02b_Oct1.11.28m.CruisedTrees.Firstsweep
+	Corresponds to all trees (from 02a) that were part of the 11.28m radius plots for the first sweep.
+
+03a_03a_Oct1.ALL.CruisedTrees.SecondSweep
+	Corresponds to all trees that were part of the second sweep of trees. Note that H16P3 and H16P5
+	were added to this .csv file
+	
+03b_Oct1.11.28m.CruisedTrees.SecondSweep
+	Corresponds to all trees (from 03a) that were part of the 11.28m radius plot.
+	

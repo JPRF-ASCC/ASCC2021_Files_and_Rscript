@@ -1,0 +1,220 @@
+*Need to amend with other edits file
+
+July 11, 2021 (Katherine Casey)
+
+	form-1__data-collection_june22-june23.csv
+		*Changes to plot number from 4 to 7 for hexagon 7 (H7P4-> H7P7)
+ 
+	form-1__data-collection_june30-july9.csv
+		*Changes to plot number from 4 to 9 for hexagon 9 (H9P4 -> H9P9)
+
+July 29/21 (Paul Sewell)
+
+For ALL -> added in "Yes" in column AJ for tree heights, not relevant to data collection, but useful for QAing data.
+
+
+	form-1__data-collection_july23-july28
+		*Changed name of "H13P5SIT" to H13P5SIT4
+		*Added heigthts for H14P5 SIT2,3,4,5. Recorded on paper.
+		*Removed H14P5SIT1 from column AJ, since this tree was removed from site index collection due to a fork.
+		*Changed name of "H13P5SIT4" to "H13P5SIT5", Data entry error. SIT4 was abandoned since it had rot in the core.
+		*Entries: 9df5514f-1317-442d-9f73-2aa8b96098f4
+			  dda98ad7-e9b3-435d-9956-7b40e4b9ef64
+			  6112abca-23a0-466d-b3f3-35abc1ec2b33
+			Were saved as H15, when should have been H14 based on timestamp
+		
+
+	
+	form-1__data-collection_july10-july22
+		*Added in heights for H17P7, and H12P2, which were recorded on paper, but didn't make it into the epicollect	
+		*Entries e8e53044-1818-4d9b-b96f-0078f1eec0b4 
+			 8584a020-a96c-4136-b046-6d6f3ab76b86
+			 9035b6c4-1d98-4c8a-8433-0178fe90c468
+				were recorded as H17, changed to H16
+	form-1__data-collection_june22-june23
+	form-1__data-collection_june30-july9
+		*Added in height for H9P5SIT2
+		*Changed name of reference tree in H9P9 from "Ref" To H9P9REF	
+	form-1__data-collection_may12-may20_QA
+	form-1__data-collection_May26
+	form-1__data-collection_May27
+	
+August 8/21, PDS
+	Compared the form-1__data-collection_may12-aug3.csv with all other uploaded .csv files, and found that 78 entries were missing. This data was filtered, and a new 
+	.csv has been created, and stored in the working directory as QA.July8.Missing_Dates.csv. Dates where entries were missed included May 19, June 23, July 6,7,8,9.
+	
+	Also noteworthy, QA.July8.Missing_Dates.csv contains 134 entries, since some additional entries were made from July 29th to August 4th. 
+	So this file fills in the missing gaps, and brings us up to present date.
+
+*Note for the following entries "->" means "changed to"
+
+
+	form-1__data-collection_july10-july22
+		Entries: 8584a020-a96c-4136-b046-6d6f3ab76b86 and 9035b6c4-1d98-4c8a-8433-0178fe90c468 were incorrectly saved as P6 (No sampling took place in P6, and the timestamp
+		aligns with measurements occuring in P7. Saved as P7.
+		
+		94e84b6b-ab4f-40cb-9606-0ffe96499295 H12P1 -> H12P2
+		cd2537e0-78f6-43be-bac7-75cc39031bd0 H12P3 -> H12P2
+		e9dbea5e-76f3-471e-8613-9f9c16431852 H11PSIT1 -> H11P6SIT1
+
+		
+	form-1__data-collection_july23-july28
+		6c77b394-e5c5-4ef9-aa20-4aa881180ad0 H13P3 -> H13P5
+		4b561279-62e3-4e81-942e-0a87b53b5c99 H13P3 -> H13P5
+		fc25b000-8617-409b-8673-e38db2bafc60 H13P3 -> H13P5
+		1b0d0a5e-a367-4f7b-acb8-d823ceafa43b H13P1 -> H13P3
+		c4f67444-2649-48fa-a635-cda99d0907df H14P6 -> H14P5
+		
+	form-1__data-collection_june30-july9
+		aedd3c04-9939-4f4a-8358-43babf7c4bbe
+			This tree was our SIT4. The ID and height were not recorded in epicollect (accidental). I noticed we were missing SIT4, and saw in my field notebook that there was a SIT4
+			I am 99% sure that this is SIT4 since it is the only other large Sx tree, free of defects, that was recorded.
+				-> I added in the ID (H9P5SIT4), as well as the height (28.3 m)
+
+	form-1__data-collection_may28-june21
+		634f21ac-8279-42e6-8d24-3456454b0509 H8P1 -> H8P2
+		6e405daf-14a3-4d77-8d12-b2f9df580eb2 H6P1 -> H6P2
+		22750049-f5c2-47e9-868d-651a76dc85d4 H5P2 -> H5P1
+		775d8880-5f0f-4e7e-8cc4-0e52a7626c55 H4P1 -> H4P2
+		9674d2b9-3ca7-4c5c-a46c-ed78afa5620c H3P1 -> H3P2
+
+		Column AJ: Age was removed from column AJ, saved in "August8_SiteIndexTrees.csv".
+		Code's changed for the following: 
+			
+			b2122aa3-a5e5-4303-b50e-bc96d52a94bb -> H8P2SIT4
+			2f0d987d-03c8-4ee2-a782-45e17a9eba19 -> H8P2SIT3
+			ab77ae35-50a4-4a55-8f9f-69f628093fbd -> H8P2SIT2
+			eb2c2402-71b3-47db-826f-33bee785b260 -> H8P2SIT1
+		
+			25fabb23-6c8c-472d-8c21-106ba8c68fd2 -> H8P1SIT5
+			9fd59010-bffe-4d7c-af2b-8804b4d107e5 -> H8P1SIT4 (no age)
+			f5e8105e-a0c3-4920-9626-100a9172342f -> H8P1SIT3 (no age)
+			b8eb2451-fa76-45c9-b92e-16620f555831 -> H8P1SIT2 (no age)
+			c24fe8d6-f036-40d8-a48b-c8a6792b0180 -> H8P1SIT1
+
+			ada425b0-7200-4636-aea3-6fee60f90c80 -> H6P1SIT5 (no age)
+			d6b757cf-af15-4a9d-a2c5-9bf86edc6575 -> H6P1SIT4 (no age)
+			460a1f2e-5ee6-4021-8266-9eb11a9da15d -> H6P1SIT3
+			2026a885-21f8-4c66-a1bc-7a7e39bdae40 -> H6P1SIT1 (no age)
+			0b3eddc4-e467-4f73-aa39-10167e28aa9d -> H6P1SIT2
+
+			9c7d3ef9-4aaa-4ced-8724-71e03e4a0d9f -> H5P2SIT4 (no age)
+			49be0f8a-d5b0-4d15-961a-58ab90ff7fa4 -> H5P2SIT3
+			65fd1d91-841f-4789-9377-1ad67683b2b2 -> H5P2SIT2
+			a3020a1d-d8e8-4920-b120-554abe9ccce5 -> H5P2SIT1
+
+			***Double Check***
+			
+					3f5547ba-59c9-4c83-9bbc-6c2c094f0102 H5P1SIT (Number not recorded) 
+						Number assigned as SIT4 (corresponding to a Sx tree, age not recoreded)
+					b1a421e5-e367-4ca5-ab02-eb583d62cd7a H5P1SIT (Number not recorded)
+						Number assigned as SIT1 (corresponding to ca. 112 y.o. Bl tree)
+						
+							These numbers were assigned since the trees appeared to be recorded as 4,3,2,1 in Epicollect, but this should be double checked once the tree
+							cores are aged in the lab. 
+						
+						
+					(see action item above)	3f5547ba-59c9-4c83-9bbc-6c2c094f0102 -> H5P1SIT4
+											f6291597-384f-43dd-88d9-5f3d113fc601 -> H5P1SIT3
+											27dcc689-be5c-4a0c-972a-008eacb59040 -> H5P1SIT2
+					(see action item above)	b1a421e5-e367-4ca5-ab02-eb583d62cd7a -> H5P1SIT1
+
+			
+			3e76a7da-0f0f-4311-a970-179e0a722e13 -> H4P2SIT4
+			6cf502f3-0879-4914-b080-6f7def54596a -> H4P2SIT3
+			6bd4d820-3ea9-42fb-a338-de4a6f4cd1f2 -> H4P2SIT2
+			9bc75447-d0aa-487d-b18b-904495e4def7 -> H4P2SIT1
+			
+			0f49a55c-974f-4ef2-88d4-d46633564c81 -> H4P1SIT5 (This sample had pocket rot, and I don't think was aged). It's coordinates were not recorded in SxBlue
+			6a3ccc06-af05-4e57-a8a2-3da083cfb714 -> H4P1SIT4
+ 			c436a4c3-2b22-42ca-8b9e-06c92122f9e2 -> H4P1SIT3
+			bf62de08-0421-487c-b938-463aa387106c -> H4P1SIT2
+			c8e8bf63-a9d9-4a7a-a86c-c3867a913688 -> H4P1SIT1
+
+
+	QA.July8.Missing_Dates
+		9c5c55f5-d93c-42a3-8b31-b678d3720597 ->  H15P1SIT1 (this tree was missing SIT#, but all other SIT's in this plot were labeled)
+		16346012-ae26-4052-b429-6e8a685a3ac6 H11P4 -> H11P3
+		e8dbc406-8f13-48e6-bcde-2e8dfd5137ec H10P5 -> H10P4
+		c23f398c-f8b1-4bae-ab60-4b8537049470 H10P5 -> H10P4
+		
+August 11, PDS
+	QA.July8.Missing_Dates
+		41b68277-4300-40d8-9dd1-2c5827019456 Missing height, 33.0 m 
+			Incorrect plot ID:
+		0f9ae8c4-4a01-4e60-a0f9-9d4b13720b4e H7P4 -> H7P7
+		506dc219-6c69-4c00-9a9c-8568494adf24 H7P4 -> H7P7
+		a1bda2ab-f879-4735-b133-c81247dc43cc H7P4 -> H7P7
+		101dd5ba-b9cc-45a3-8d06-022f6b30b664 H7P4 -> H7P7
+		7fd7149a-564a-47ce-b859-e09fc7435c2e H7P4 -> H7P7
+		b623f60a-cb70-484b-b365-deefc5362955 H7P4 -> H7P7
+		2d2c9470-4b30-4647-9caa-d1a42213100f H7P4 -> H7P7
+		630b16b4-d763-4b90-b495-047d1c1178d5 H7P4 -> H7P7
+		c4f582a0-b227-45b8-940a-9d4a8f9486df H7P4 -> H7P7
+		13f53c61-a097-49ba-90d8-5cd2e6ac2a64 H7P4 -> H7P7
+		fde904cb-0180-420e-817f-342c8181077e H7P4 -> H7P7
+		e9e00731-0817-4825-98e3-14b57542f5f1 H7P4 -> H7P7
+		b6fafb52-76de-4a21-bfa0-df57ec61f2fc H7P4 -> H7P7
+		
+	form-1__data-collection_july10-july22	
+		51eff8a7-bfa7-41e5-b4c5-4ccb2cf6c924 H14P4 -> H14P5
+
+Sept 16, PDS
+	form-1__data-collection_july29-aug16.csv
+
+			Incorrect plot ID:
+		5f42b404-6ece-402d-8a27-42cc47096346 H20P5 -> H20P9 (doesn't fit the timestamp) 
+		97398e1f-cf58-41d5-9e92-3aba264568f1 H20P5 -> H20P9 (doesn't fit the timestamp)
+		b1eb7c77-aaf5-4078-8b5d-ee1c49e6b949 H20P4 -> H20P5
+		
+		
+			The following (56) entries were duplicates of QA.July8.Missing_Dates:
+			
+     	 "eb690350-f4e8-11eb-8b6b-43291cd259b0" "80afd890-f4e8-11eb-8b6b-43291cd259b0" "1655b330-f4e7-11eb-8b6b-43291cd259b0"
+		 "e9a18582-08a1-45e2-b9af-acfe461b006b" "41b68277-4300-40d8-9dd1-2c5827019456" "52a65a3a-a7a0-40de-9c0f-faf1ae483a51"
+		 "011a8441-b914-4b75-9cce-f703d8d525f6" "97c58340-f4d4-11eb-8b6b-43291cd259b0" "0305bf59-9887-49a7-8c22-7827e978aa4f"
+		 "b33dbc73-6291-4dbf-8e3e-ab6974ae3dfe" "e209f9c1-dfed-4162-b005-897ddb968b83" "f51b7c64-bc87-4fa3-b84b-edc8cc59bb83"
+		 "28ad60c8-6def-460f-a802-ccb38878e5d9" "184c9e34-5939-40c1-a3e4-f1d438c1db19" "07fdfdad-db74-46fb-a9c0-a6fa9cc0008d"
+		 "8267d01d-4feb-4aa2-ab5f-c620bf8de73d" "b5f070e4-b406-4d8a-895a-933b448f1d26" "93a7e2d5-8c0a-43d0-86ac-da63bb23330b"
+		 "e463740d-8931-49db-852e-c4a4002db747" "d7218a6c-54af-4a65-84c9-3260fc13ec9f" "a91609c5-8031-4d5c-9052-b26880e4477f"
+		 "7922d57c-03fa-4301-8055-329efa56a9ff" "5ed29040-915c-46c3-aa1d-444e2d91381e" "6cc98c39-663e-4453-a884-129d61c4bca0"
+		 "968ebcba-c849-4901-8f4c-ed03e024b06a" "e31fcf88-08df-4bf6-9d8f-b8f641e0469c" "286e59aa-e08c-4522-873e-473017885188"
+		 "317f3e6e-d7b9-4227-b2bd-b1ad02e27e12" "1c3048ae-2e58-489d-b54c-3c010effa242" "d62c7a9b-4da1-49f6-8ab6-0be0511a6d80"
+		 "ac6f39f8-d206-4205-bcba-2d8115f34a47" "fcd5d22f-6208-4c0e-aa99-5829061e7102" "86e67db4-4dd6-4297-8e3c-1f00e3b02df0"
+		 "99a34065-4972-4024-8cb6-dbaa8bdad335" "10e392ce-9c1b-4a81-9de2-0a3e8b342a97" "a6775a83-582f-4ed6-bfef-ebb2011fc2ba"
+		 "da695703-9b64-48f1-ad25-6535876958d9" "b82d9aa9-f481-45f0-b02e-1de2d659fd57" "90280300-e7b9-46a1-9559-5cc6a9b3d854"
+		 "d66bc1e8-e22b-4d38-bb23-3460195cfcfa" "dbeb1f8f-3908-4a00-904c-4f2f6d560e06" "b70ff7ec-2894-4706-8bcd-843e4aae475d"
+		 "c73836f4-d7bb-46b6-9eb8-f7686f6b5ef0" "4cf9bc81-0aca-4f8d-8780-44a2d1e66bc6" "a0183275-9015-4776-8ca8-e3234d3fde09"
+		 "dabe1c88-57c6-4b74-a5a7-30315b8ad4f3" "2baa5cc8-7d4f-4be5-bf2c-3afdfeb6ba70" "6d830459-97a1-4b35-b19b-888fe4a6f63e"
+		 "93b7a20d-15b1-4d9f-9664-d32a4cb15b43" "6a77df97-6829-4e5d-ad0e-4a3c0966d394" "0d70f508-9541-4322-8729-460ce4511d53"
+		 "87d11abc-f6aa-406d-99ab-13da00a7d935" "9c9d3d58-44d5-4f49-8947-bea8bb229eb0" "b3acd975-58b8-43f4-9b62-216f8ef02118"
+		 "9c5c55f5-d93c-42a3-8b31-b678d3720597" "407df27b-98a1-4ba0-b7a7-c51c56e7c5c1"
+		 
+		 These have been removed from this .csv, but can be found in original.
+
+Sept 27, PDS.
+	master file of epicollect entries created: ASCC.Epicollect.Entries.2021.csv
+		Consisting of all QA'd epicollect entries
+			Notes:
+				-H16P3 and H16P5 were collected using epicollect, but this data was collected as part of the second sweep, and so pathological
+				indicators were not noted, and also no dead and downed wood was measured. Only standing live and dead trees were recoreded.
+				-Some site index trees were outside of the 11.28m radius plot. These are included in this dataset.
+
+	
+	File for first sweep of cruising was created: Sept27.CruisedTrees.FirstSweep.csv
+		Consisting of all plots cruised for the "main" sampling (2 plots per polygon), also H16P3 and H16P5 were removed, as were 
+		site index trees outside of the 11.28m radius plot. 
+	
+	File for second sweep of cruising was created: Sept27.CruisedTrees.SecondSweep.csv
+		This includes all trees (even outside of 11.28m radius plot)
+	
+	File for second sweep of cruising with 11.28m radius constraint was created: Sept27.CruisedTrees.SecondSweep_11.28mradius.csv
+
+Oct1 PDS,
+	form-1__data-collection_july29-aug16
+	
+	The following entries were deleted, SI trees were recoreded twice by mistakeWere deleted, SI was recoreded twice. 
+		4c5bdaa4-bf3b-4422-af88-15dd7018c0a7
+		db691142-700e-4bb5-b4bc-5c9d0ca5af4b
+		1ab6ca02-d546-4914-a12e-366d66d1fc5d
+		71f2cec8-6a05-4572-b1d3-c7cc0251d385
